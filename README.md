@@ -6,3 +6,5 @@ After creating models and added db to startup:
 .. run following commands in package manager console to create db:
 add-migration InitialMigration
 update-database
+
+Run both commands again later if changes to tables (change description to migration).
